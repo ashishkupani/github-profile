@@ -1,8 +1,11 @@
-# Hi there 👋 I am Ashish Kumar Pani😎
+# 👋 Hi, I'm Ashish Kumar Pani😎
 
-Passionate FrontEnd Developer❤️
+🚀 Frontend Developer | React.js | JavaScript | HTML | CSS
+🎓 Bachelor’s Degree in Computer Science & Technology
+💡 Passionate about building responsive, user-friendly web interfaces
 
-I Completed my bachelor’s degree at Trident Academy of Technology in Computer Science and Technology. I am a highly competent software professional with a proven track record in designing websites and developing Engaging UI. I have Handson Experience in HTML,CSS,JAVA SCRIPT,React as well as excellent interpersonal skills, enabling me to interact with new people. I am eager to be challenged in order to grow and further improve my software skills.
+## 🌟 About Me
+I am Ashish Kumar Pani Completed my bachelor’s degree at Trident Academy of Technology in Computer Science and Technology. I am a passionate Frontend Developer with hands-on experience in building modern, responsive, and interactive web applications. I enjoy transforming ideas into real-world applications using HTML, CSS, JavaScript, and React and have as well as excellent interpersonal skills, enabling me to interact with new people. I am continuously learning new technologies and improving my problem-solving skills to grow as a professional developer.
 
 ### 🛠️ Skills & Technologies
 - 🌐 HTML5, CSS3, JavaScript (ES6+)
@@ -10,6 +13,11 @@ I Completed my bachelor’s degree at Trident Academy of Technology in Computer 
 - 🎨 Responsive UI Design
 - 🔗 REST APIs
 - 🧩 Git & GitHub
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Chrome DevTools
 
 ### 🚀 Currently
 - 🌱 Learning advanced React & modern frontend tools
